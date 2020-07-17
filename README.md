@@ -8,7 +8,7 @@ The idea of this project is to create programs that will create artificial users
 Creating artificial users and using internet services will use AI.
 
 1. Artificial user - AU
-   - must independently create data for user (name, second name, buirth date, sex, ...) Each user must have it own picture and this picture must be generated - shoul not exists.
+   - must independently create data for user (name, second name, buirth date, sex, ...) Each user must have it own picture and this picture must be generated - should not exists like https://www.thispersondoesnotexist.com/.
    - the user should have a “heartbeat” through which the user can learn and control
    
    Creating user should be a AI process.
