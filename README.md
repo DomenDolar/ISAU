@@ -11,7 +11,7 @@ Creating artificial users and using internet services will use AI.
    - must independently create data for user (name, second name, buirth date, sex, ...) Each user must have it own picture and this picture must be generated - should not exists like https://www.thispersondoesnotexist.com/.
    - the user should have a “heartbeat” through which the user can learn and control
    
-   Creating user should be a AI process.
+   Creating user should be a AI process. (maybe using phyton, macro recorder, ...)
    
 2. Internet service (service on internet which user can use)
     - sign up, log in and log out from the servce 
